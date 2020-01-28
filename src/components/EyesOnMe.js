@@ -4,9 +4,6 @@ import React, { Component } from "react";
 
 export default class EyesOnMe extends Component{
 
-    // handleFocusAndBlur = (event) => {
-    //     if (event.target.focus)
-    // }
 
     onFocus = () => {
         console.log('Good!')
